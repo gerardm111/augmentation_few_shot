@@ -1,5 +1,5 @@
-# few-shot-style-transfer
-Core research question: Can photorealistic style transfer make few-shot image classification tasks more robust to the choice of the support set?
+# Augmentation techniques for few-shot learning
+Augmentation techniques (mathematical transforms and style transfer model) to improve robustness of few-shot image classification pipelines. Focus on one-shot image classification.
 ## Setup
 ### Requirements
 You will need :
